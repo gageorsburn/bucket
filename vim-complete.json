@@ -1,0 +1,10 @@
+﻿{
+    "version":  "8.0.0142",
+    "license":  "http://vimdoc.sourceforge.net/htmldoc/uganda.html#license",
+    "extract_dir":  "",
+    "url": "http://tuxproject.de/projects/vim/complete-x64.7z",
+    "depends":  "",
+    "homepage":  "http://vim.org",
+    "hash":  "3693b9797001880e3841b5df39b4e6162966a4cd6ed00897446facb3475e7587",
+    "bin":  "vim.exe"
+}
