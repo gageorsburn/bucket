@@ -1,0 +1,10 @@
+﻿{
+    "version":  "v3.3.0",
+    "license":  "https://github.com/google/protobuf/blob/master/LICENSE",
+    "extract_dir":  "protoc",
+    "url":  "https://github.com/google/protobuf/releases/download/v3.3.0/protoc-3.3.0-win32.zip",
+    "depends":  "",
+    "homepage":  "https://github.com/google/protobuf",
+    "hash":  "",
+    "bin":  "protoc.exe"
+}
